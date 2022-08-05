@@ -1,4 +1,4 @@
-# designpatterns
+# Design Patterns
 
 Padrões de Projetos com Java
 
